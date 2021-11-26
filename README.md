@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I'm drew 👋
+
+Advocate of Good Software Delivery, lean software development, cloud, and automation. https://www.drewkhoury.com/
 
 <!--
 **drewkhoury/drewkhoury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
